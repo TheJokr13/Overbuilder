@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{3FF646AB-4F04-AF64-8EFB-5AA1178C02B7}",
+	"EngineAssociation": "{30B5DA3D-4652-9EA6-F5AA-49B267F5A7B0}",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -13,6 +13,14 @@
 		},
 		{
 			"Name": "GameplayStateTree",
+			"Enabled": true
+		},
+		{
+			"Name": "MovieRenderPipeline",
+			"Enabled": true
+		},
+		{
+			"Name": "MoviePipelineMaskRenderPass",
 			"Enabled": true
 		}
 	]
